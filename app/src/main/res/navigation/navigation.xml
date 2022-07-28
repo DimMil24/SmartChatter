@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/mainFragment"
+    >
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.smartchatters.View.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main"
+        />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.smartchatters.View.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

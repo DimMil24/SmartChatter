@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartChatters</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="contactsfragment">ContactsFragment</string>
+    <string name="home">Home</string>
+    <string name="contacts">Contacts</string>
+    <string name="search">Search</string>
+    <string name="join">JOIN</string>
+    <string name="start_typing">Start Typing</string>
+    <string name="attach_image_or_video">Attach image or video</string>
+    <string name="send_a_message">send a message</string>
+    <string name="profile">Profile</string>
+    <string name="smartschatters">SmartsChatters</string>
+    <string name="username">Username:</string>
+    <string name="videoplayer">VideoPlayer</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="usernameHintLogin">Username</string>
+    <string name="login">Login</string>
+</resources>
